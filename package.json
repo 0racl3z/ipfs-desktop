@@ -76,7 +76,7 @@
   "dependencies": {
     "countly-sdk-nodejs": "^19.8.0",
     "electron-serve": "^1.1.0",
-    "electron-store": "^7.0.2",
+    "electron-store": "^8.0.0",
     "electron-updater": "4.3.5",
     "fix-path": "^3.0.0",
     "fs-extra": "^9.1.0",
@@ -87,7 +87,7 @@
     "i18next-node-fs-backend": "^2.1.3",
     "intl-messageformat": "^9.4.7",
     "ipfs-http-client": "47.0.1",
-    "ipfsd-ctl": "^7.2.0",
+    "ipfsd-ctl": "^11.0.0",
     "is-ipfs": "^3.0.0",
     "it-all": "^1.0.5",
     "it-concat": "^1.0.2",
